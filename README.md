@@ -1,5 +1,5 @@
 # url_to_googleDrive
-Upload files remotely to your google drive without downloading them localy. 
+Upload files remotely to your google drive without downloading them locally. 
 
 Steps to use:
 
