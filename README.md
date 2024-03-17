@@ -1,5 +1,7 @@
 # url_to_googleDrive
-Upload files remotely to your google drive without downloading them localy. Steps to use:
+Upload files remotely to your google drive without downloading them localy. 
+
+Steps to use:
 
 1. Open the notebook in colab
 2. Mount the drive and perform the authorization steps
