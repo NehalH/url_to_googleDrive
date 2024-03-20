@@ -8,3 +8,4 @@ Steps to use:
 3. Set the necessary url and file destination paths ( `Code cell 2` )
 4. Run `code cell 3` (Downloads the files to google drive)
 5. Run `code cell 4` (Unzip the files if necessary)
+6. Run `code cell 5` to instantly sync changes to cloud drive.
